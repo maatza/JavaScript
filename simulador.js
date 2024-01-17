@@ -1,4 +1,3 @@
-// Definindo o construtor do objeto SimuladorBebidas
 function SimuladorBebidas() {
     this.estoque = {
         cerveja: 10,
